@@ -1,4 +1,4 @@
-package com.dmh.utill;
+package com.gt.utill;
 
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;

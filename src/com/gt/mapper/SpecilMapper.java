@@ -1,6 +1,6 @@
-package com.dmh.mapper;
+package com.gt.mapper;
 
-import com.dmh.po.Specil;
+import com.gt.po.Specil;
 
 import java.util.List;
 import java.util.Map;

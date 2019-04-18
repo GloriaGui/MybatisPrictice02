@@ -1,8 +1,8 @@
-package com.dmh.test;
+package com.gt.test;
 
-import com.dmh.mapper.SpecilMapper;
-import com.dmh.po.Specil;
-import com.dmh.utill.MybatisUtils;
+import com.gt.mapper.SpecilMapper;
+import com.gt.po.Specil;
+import com.gt.utill.MybatisUtils;
 import org.apache.ibatis.session.SqlSession;
 
 import java.util.HashMap;

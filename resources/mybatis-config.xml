@@ -7,7 +7,7 @@
     <properties resource="db.properties" />
     <!--设置别名-->
     <typeAliases>
-        <package name="com.dmh.po"/>
+        <package name="com.gt.po"/>
     </typeAliases>
     <environments default="development">
         <environment id="development">
@@ -21,6 +21,6 @@
         </environment>
     </environments>
     <mappers>
-        <mapper resource="com/dmh/mapper/SpecilMapper.xml"/>
+        <mapper resource="com/gt/mapper/SpecilMapper.xml"/>
     </mappers>
 </configuration>

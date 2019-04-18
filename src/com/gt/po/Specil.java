@@ -1,4 +1,4 @@
-package com.dmh.po;
+package com.gt.po;
 
 import lombok.Data;
 
